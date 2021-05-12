@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/thenightfurypl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="@furia_pl" height="30" width="40" /></a>
+<a href="https://twitter.com/thenightfurypl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="furia_pl" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/KqsB2PVr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="https://discord.gg/KqsB2PVr" height="30" width="40" /></a>
 </p>
 
