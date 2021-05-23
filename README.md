@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Furia Discord bot](https://github.com/Toothless287/TheNightFuryBOT)
 
-- 🌱 I’m currently learning **Ruby,SinatraRB,Gosu,Discordrb**
+- 🌱 I’m currently learning **Ruby, SinatraRB, Gosu, Discordrb, HTML, CSS, JS, [Discordjs](discord.js.org)**
 
 - 💬 Ask me about **Ruby**
 
