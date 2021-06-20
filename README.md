@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Ruby**
 
-- 📫 How to reach me **Discord: NightFury#3265**
+- 📫 How to reach me **Discord: NightFury#7777**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
