@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/furia_pl" target="blank"><img src="https://img.shields.io/twitter/follow/furia_pl?logo=twitter&style=for-the-badge" alt="furia_pl" /></a> </p>
 
-- 🔭 I’m currently working on **many projects :>**
+- 🔭 I’m currently working on **FuryCLI**
 
 - 🌱 I’m currently learning **Python**
 
