@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=furydevpl" alt="furydevpl" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/furia_pl" target="blank"><img src="https://img.shields.io/twitter/follow/furia_pl?logo=twitter&style=for-the-badge" alt="furia_pl" /></a> </p>
+<p align="left"> <a href="https://twitter.com/FuryDevPL" target="blank"><img src="https://img.shields.io/twitter/follow/furia_pl?logo=twitter&style=for-the-badge" alt="furia_pl" /></a> </p>
 
 - 🔭 I’m currently working on **FuryCLI**
 
